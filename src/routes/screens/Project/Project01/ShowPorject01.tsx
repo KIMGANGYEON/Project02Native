@@ -55,7 +55,7 @@ const EnterBtn = styled.TouchableOpacity`
 const EnterText = styled.Text`
   font-size: 60px;
   font-weight: 100;
-  text-shadow: 11px 11px 20px;
+  text-shadow: 11px 11px 19px;
 `;
 
 type RootStackParamList = {
