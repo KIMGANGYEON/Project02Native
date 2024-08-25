@@ -71,25 +71,25 @@ const ShowPorject01 = () => {
     <View style={{position: 'relative', flex: 1}}>
       <Image01>
         <Image01Img
-          source={require('../../../../assets/project01/1.jpg')}
+          source={require('../../../../../assets//project01/1.jpg')}
           resizeMode="contain"
         />
       </Image01>
       <Image02>
         <Image02Img
-          source={require('../../../../assets/project01/2.jpg')}
+          source={require('../../../../../assets/project01/2.jpg')}
           resizeMode="contain"
         />
       </Image02>
       <Image03>
         <Image03Img
-          source={require('../../../../assets/project01/4.jpg')}
+          source={require('../../../../../assets/project01/4.jpg')}
           resizeMode="contain"
         />
       </Image03>
       <Image04>
         <Image04Img
-          source={require('../../../../assets/project01/5.jpg')}
+          source={require('../../../../../assets/project01/5.jpg')}
           resizeMode="center"
         />
       </Image04>
